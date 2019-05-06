@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-02_1725",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -402,13 +402,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -437,12 +437,12 @@
                 "title": "message",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "if the world cant be green now then it will never be.<br>#BETHEGHANGE",
+                "text": "we are the young indegnous minds from the mpesa foundation academy &nbsp;<br>willing to serve the community",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1279.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
