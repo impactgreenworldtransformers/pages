@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-04-02_1725",
-    "currentPage": "index.html",
+    "name": "igwt",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,7 +34,9 @@
     "siteFonts": [],
     "uniqCompNum": 22,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
